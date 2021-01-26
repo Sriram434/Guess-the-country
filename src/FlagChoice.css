@@ -1,0 +1,19 @@
+.flag-form{
+	margin: 2em auto;
+	display: flex;
+	justify-content: space-around;
+	max-width: 1000px;
+}
+
+.flag-form button{
+	width: 8em;
+	height: 3em;
+	border: none;
+	background: #ff4301;
+	color: #2f2519;
+	border-radius: 25px;
+	margin-left: 2em;
+	font-size: .8em;
+	letter-spacing: .8px;
+	outline: none; 
+}

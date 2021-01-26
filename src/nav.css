@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.nav-container{
+	padding: 0;
+	background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Download-World-Map-Wallpapers-HD-620x388.png');
+	width: 100vw;
+	height: 35vh;
+	overflow: hidden;
+}
+
+.nav-container h2{
+	text-align: center;
+	font-size: 5em;;
+	align-items:center;
+	color: #E7EBF9;
+}

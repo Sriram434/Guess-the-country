@@ -1,0 +1,16 @@
+.flag-answer{
+	margin: 2em;
+	letter-spacing: .8px;
+}
+.flag-answer button{
+	width: 8em;
+	height: 3em;
+	border: none;
+	background: #40a8c4;
+	color: #1a1a2e;
+	border-radius: 25px;
+	margin-left: 2em;
+	font-size: .8em;
+	letter-spacing: .8px;
+	outline: none; 
+}
